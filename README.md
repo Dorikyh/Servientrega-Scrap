@@ -2,7 +2,7 @@
 Small python script to scrape information from a delivery package of Servientrega
 This project is unofficial Servienrega and this script only
 
-[English](https://github.com/Dorikyh/Servientrega-Scrap/edit/main/README.md) | [Spanish](https://github.com/Dorikyh/Servientrega-Scrap/edit/main/README-ES.md)
+[English](https://github.com/Dorikyh/Servientrega-Scrap/main/README.md) | [Spanish](https://github.com/Dorikyh/Servientrega-Scrap/main/README-ES.md)
 
 ## How it works
 This is a basic code that makes asynchronous requests to the servientrega API to obtain public information about a servientrega package.
