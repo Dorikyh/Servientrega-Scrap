@@ -1,6 +1,8 @@
 # Servientrega-Scrap
 Este es un pequeno script hecho en Python para extraer información de un paquete de entrega de Servientrega. Este proyecto no es oficial a Servienrega ni pretende serlo.
 
+[English](https://github.com/Dorikyh/Servientrega-Scrap/edit/main/README.md) | [Spanish](https://github.com/Dorikyh/Servientrega-Scrap/edit/main/README-ES.md)
+
 ## Cómo funciona
 Este es un código básico que realiza solicitudes asíncronas a la API de servientrega para obtener información pública sobre un paquete de servientrega.
 Hice este script porque la página web de entrega funciona muy mal, además, tiene un "captcha" sin sentido que se puede omitir sin ningún problema.
